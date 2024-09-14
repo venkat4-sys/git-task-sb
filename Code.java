@@ -21,6 +21,7 @@ public class Data{
 
    }
 
+<<<<<<< Updated upstream
     
 
 
@@ -30,6 +31,11 @@ public class Data{
  }
 
 
+=======
+   public String m6(){
+
+   }
+>>>>>>> Stashed changes
 
 
 }
