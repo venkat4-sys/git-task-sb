@@ -20,22 +20,11 @@ public class Data{
               //bug-1234
 
    }
-
-<<<<<<< Updated upstream
-    
-
-
   public String m7(){
 
         //fixed the bug
  }
-
-
-=======
    public String m6(){
 
    }
->>>>>>> Stashed changes
-
-
 }
